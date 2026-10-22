@@ -1,8 +1,0 @@
-Strong Gym · usuarios iniciales
-
-  Administrador  usuario: admin    contraseña: admin1234
-  Dueño          usuario: dueno    contraseña: dueno1234
-
-Entra con estos datos y cambia la contraseña en "Mi cuenta".
-Si vas a sincronizar con la nube, usa las MISMAS contraseñas iniciales en ambas copias
-(variables ADMIN_PASSWORD_INICIAL y DUENO_PASSWORD_INICIAL) o cámbialas después en recepción.
